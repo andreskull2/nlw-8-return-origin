@@ -20,7 +20,7 @@ The Origin Mission of NLW#8 was designed for programming beginners, providing a 
 </p>
 <br>
 <p align="center">
-  <img alt="Pratical challenge" src="github/capa.png" width="100%">
+  <img alt="Pratical challenge" src="github/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
